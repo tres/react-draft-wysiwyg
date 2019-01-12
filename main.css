@@ -1633,7 +1633,6 @@ ol {
   width: 22px;
   height: 22px;
   min-width: 22px;
-  box-shadow: 1px 2px 1px #BFBDBD inset;
 }
 .rdw-colorpicker-option:hover {
   box-shadow: 1px 2px 1px #BFBDBD;
